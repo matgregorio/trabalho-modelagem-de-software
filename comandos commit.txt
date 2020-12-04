@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "adicionadas dados dos diagramas de sequencia"
+git remote add origin https://github.com/mzramna/trabalho-modelagem-de-software.git
+git push origin master
